@@ -1,0 +1,25 @@
+img{
+    height: 50px;
+}
+table{
+    border: 2px solid lightblue;
+    border-radius: 2%;
+}
+td, th{
+    border: 2px solid lightblue;
+    border-radius: 10%;
+    width: 80px;
+    height: 50px;
+    text-align: center;
+    color:  blue;
+}
+.kekebb{
+    background-color: rgb(98, 138, 226);
+}
+#szürkébb{
+    background-color: gray;
+}
+.szurke{
+    background-color: darkgray;
+}
+
