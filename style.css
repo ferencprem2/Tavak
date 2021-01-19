@@ -6,7 +6,10 @@ table{
     border-radius: 1%;
 }
 td, th{
-    border: 1px solid blue;
+    border-top: unset;
+    border-left: unset;
+    border-right: solid blue 2px;
+    border-bottom: solid blue 2px;
     border-radius: 7%;
     width: 75px;
     height: 45px;
